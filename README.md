@@ -1,0 +1,2 @@
+# 2025573010131_PratikumAlgoritmaDanStrukturData
+TIK_PratikumAlgoritmaDanStrukturData
