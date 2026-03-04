@@ -1,2 +1,4 @@
 # 2025573010131_PratikumAlgoritmaDanStrukturData
 TIK_PratikumAlgoritmaDanStrukturData
+nama : saqya rahmatillah
+nim : 2025573010131
