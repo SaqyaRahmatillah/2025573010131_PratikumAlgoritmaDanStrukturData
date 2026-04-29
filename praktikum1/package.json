@@ -1,0 +1,21 @@
+{
+  "name": "2025573010131_pratikumalgoritmadanstrukturdata",
+  "version": "1.0.0",
+  "description": "TIK_PratikumAlgoritmaDanStrukturData",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaqyaRahmatillah/2025573010131_PratikumAlgoritmaDanStrukturData.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SaqyaRahmatillah/2025573010131_PratikumAlgoritmaDanStrukturData/issues"
+  },
+  "homepage": "https://github.com/SaqyaRahmatillah/2025573010131_PratikumAlgoritmaDanStrukturData#readme"
+}
